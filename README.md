@@ -5,6 +5,7 @@ SmartAgriNet is a comprehensive full-stack smart agriculture application designe
 
 ## 🚀 Key Features
 
+
 ### Core Modules
 - **Crop Recommendation System** - AI-powered recommendations based on soil analysis and local conditions
 - **Weather Forecasting** - Real-time weather data and predictions
@@ -125,3 +126,4 @@ For support and questions:
 - Documentation: https://docs.smartagrinet.com
 
 - Community Forum: https://community.smartagrinet.com 
+

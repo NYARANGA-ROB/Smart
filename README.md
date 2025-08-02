@@ -21,7 +21,6 @@ SmartAgriNet is a comprehensive full-stack smart agriculture application designe
 - **Geospatial Mapping** - Satellite imagery and field mapping
 - **Offline Sync** - Rural connectivity support
 - **Admin Dashboard** - Analytics and management tools
-
 ### Technical Stack
 - **Frontend**: Flutter (Mobile-first, cross-platform)
 - **Backend**: Node.js + Express
@@ -124,4 +123,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support and questions:
 - Email: support@smartagrinet.com
 - Documentation: https://docs.smartagrinet.com
+
 - Community Forum: https://community.smartagrinet.com 

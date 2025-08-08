@@ -124,6 +124,6 @@ For support and questions:
 - Email: support@smartagrinet.com
 - Documentation: https://docs.smartagrinet.com
 
-- Community Forum: https://community.smartagrinet.com 
+
 
 

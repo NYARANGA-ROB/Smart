@@ -120,7 +120,8 @@ Please read our contributing guidelines in `docs/CONTRIBUTING.md`
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🆘 Support
-For support and questions:
+
+
 
 
 

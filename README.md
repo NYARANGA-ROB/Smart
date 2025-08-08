@@ -116,7 +116,8 @@ Detailed configuration guides are available in the `docs/` directory:
 ## 🤝 Contributing
 Please read our contributing guidelines in `docs/CONTRIBUTING.md`
 
-## 📄 License
+
+
 
 
 
